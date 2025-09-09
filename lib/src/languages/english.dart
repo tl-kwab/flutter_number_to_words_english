@@ -275,6 +275,12 @@ class EnglishNumberToWords extends NumberToWordsLanguage {
       'minorPlural': 'centimes',
       'decimals': '2'
     },
+    'NGN': {
+      'major': 'Naira',
+      'majorPlural': 'Naira',
+      'minor': 'kobo',
+      'minorPlural': 'kobo',
+      'decimals': '2'
   };
 
   @override
